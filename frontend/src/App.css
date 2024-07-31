@@ -1,0 +1,16 @@
+/* 
+body{
+  background: rgb(20,10,191);
+background: linear-gradient(90deg, rgba(20,10,191,1) 9%, rgba(0,255,68,1) 100%);
+color: white;
+} */
+
+
+#wrapper{
+  width: 200px;
+  height: 100px;
+  border-color: lightcoral;
+  border-radius: 20px;
+  margin-top: 40px;
+  margin: 50px;
+}
